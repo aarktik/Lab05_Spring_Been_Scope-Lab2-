@@ -18,3 +18,6 @@
 ### บน Windows (PowerShell / CMD)
 ```powershell
 .\mvnw.cmd spring-boot:run
+
+หมายเหตุ: หากมีการติดตั้ง Maven ลงในเครื่องเรียบร้อยแล้ว สามารถใช้คำสั่ง mvn spring-boot:run ได้เช่นกัน
+แอปพลิเคชันจะเปิดทำงานที่ http://localhost:8080
